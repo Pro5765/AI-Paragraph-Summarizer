@@ -462,7 +462,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGithub](https://github.com/yourusername)
+- **Ark Barua** - *Initial work* - [YourGithub](https://github.com/yourusername)
 
 ## 🙏 Acknowledgments
 
