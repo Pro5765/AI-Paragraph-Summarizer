@@ -2,7 +2,7 @@
 
 A modern web application that uses artificial intelligence to generate concise summaries of long texts. Built with PHP, MySQL, and Bootstrap 5.
 
-![Project Banner](assets/images/banner.png)
+![AI Text Summarizer](https://raw.githubusercontent.com/yourusername/ai-text-summarizer/main/assets/banner.png)
 
 ## 🌟 Features
 
