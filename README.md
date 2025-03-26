@@ -458,7 +458,7 @@ POST /admin/add_user.php
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Pro5765/AI-Paragraph-Summarizer/blob/main/LICENSE) file for details.
 
 ## 👥 Authors
 
